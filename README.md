@@ -31,16 +31,4 @@ let idade = 25;
 let apresentacao = `Eu tenho ${idade} anos.`;
 console.log(apresentacao); // Saída: Eu tenho 25 anos.
 ```
-Métodos de strings:
 
-Strings têm muitos métodos úteis. Por exemplo:
-
-length: Retorna o comprimento da string.
-```js
-let texto = "JavaScript";
-console.log(texto.length); // Saída: 10
-```
-```js
-javascript
-let frase = "Eu adoro programação";
-console.log(frase.indexOf("adoro")); // Saída: 3
