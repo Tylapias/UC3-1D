@@ -35,16 +35,16 @@ console.log(apresentacao); // Saída: Eu tenho 25 anos.
 ## Atividades Feitas
 ```js
 https://codepen.io/Tylapio/pen/LYKeMmo
-
+```
 ```js
 https://codepen.io/Tylapio/pen/LYKeMmo
-
+```
 ```js
 https://codepen.io/Tylapio/pen/GRVpaem
-
+```
 ```js 
 https://codepen.io/Tylapio/pen/ExBMgzd
-
+```
 
 
 
