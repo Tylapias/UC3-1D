@@ -63,6 +63,48 @@ if (nota >= 90) {
 }
 ```
 
+## Array
+
+### Um Array é uma estrutura de dados usada para armazenar vários valores em uma única variável. Em JavaScript, arrays são dinâmicos, ou seja, podem crescer ou diminuir em tamanho e podem armazenar diferentes tipos de dados (números, strings, objetos, etc.).
+
+```js
+let frutas = ["Maçã", "Banana", "Laranja"];
+```
+
+### Acessando elementos de um Array
+Os elementos de um array são indexados começando do número 0. Para acessar o primeiro elemento, por exemplo, usamos:
+
+```js
+let primeiraFruta = frutas[0]; // "Maçã"
+```
+## Propriedades e Métodos Comuns
+length: Retorna o número de elementos do array.
+
+```js
+console.log(frutas.length); // 3
+```
+
+push(): Adiciona um elemento ao final do array.
+
+```js
+frutas.push("Uva");
+```
+pop(): Remove o último elemento do array.
+
+```js
+frutas.pop(); // Remove "Uva"
+```
+shift(): Remove o primeiro elemento do array.
+
+```js
+frutas.shift(); // Remove "Maçã"
+```
+unshift(): Adiciona um elemento no início do array.
+
+```js
+frutas.unshift("Manga");
+```
+
 ## Atividades Feitas
 ```js
 https://codepen.io/Tylapio/pen/LYKeMmo
